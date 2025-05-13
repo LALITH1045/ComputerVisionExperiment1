@@ -1,6 +1,6 @@
 # 1: CNN FOR IMAGE CLASSIFICATION
 ## AIM:
- To demonstrate the working of a simple Convolutional Neural Network(CNN) for image classification using CIFAR-10 dataset.
+ To demonstrate the working of a simple Convolutional Neural Network(CNN) for image classification using CIFAR-10.
 ## PROCEDURE:
  1. Load and normalize the CIFAR-10 dataset.
  2. Define a CNN model with convolutional, pooling, and dense layers.
